@@ -9,7 +9,7 @@ This is my webpage of gitHub for my profile.
 
 ## Contact
 
-* To contact me you can send me an email to **mgutierrezr22@educantabria.es**
+* To contact me you can send me an email to **alvaro.san@educantabria.es**
 
 ## My image
 
@@ -28,7 +28,7 @@ Esta es mi página web de gitHub para mi perfil.
 
 ## Contacto
 
-* Para contactarme puedes enviar un correo a **mgutierrezr22@educantabria.es**
+* Para contactarme puedes enviar un correo a **alvaro.san@educantabria.es**
 
 ## Mi imagen
 
