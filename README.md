@@ -1,16 +1,36 @@
-## Hi there 👋
 
-<!--
-**AlvaroSanJuan20/AlvaroSanJuan20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello everyone 🙌 (EN)
 
-Here are some ideas to get you started:
+This is my webpage of gitHub for my profile.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* I am a superior technician of Administration of digital systems & net.
+* I am working on my own gitHub
+* I am currently a student.
+
+## Contact
+
+* To contact me you can send me an email to **mgutierrezr22@educantabria.es**
+
+## My image
+
+* This is my image:
+![Myimage]()
+---
+
+## Hola a todos 🙌 (ES)
+
+Esta es mi página web de gitHub para mi perfil.
+
+* Soy un tecnico superior en Administración en Sistemas Informaticos e Red.
+* Estoy trabajando en mi gitHub.
+* Actualmente alumno.
+
+## Contacto
+
+* Para contactarme puedes enviar un correo a **mgutierrezr22@educantabria.es**
+
+## Mi imagen
+
+* Esta es mi imagen:
+![Miimagen]()
+---
