@@ -14,7 +14,7 @@ This is my webpage of gitHub for my profile.
 ## My image
 
 * This is my image:
-![Myimage]()
+![Myimage](https://github.com/AlvaroSanJuan20/AlvaroSanJuan20/blob/main/gitHubImages/githubimage.png)
 ---
 
 ## Hola a todos 🙌 (ES)
@@ -32,5 +32,5 @@ Esta es mi página web de gitHub para mi perfil.
 ## Mi imagen
 
 * Esta es mi imagen:
-![Miimagen]()
+![Miimagen](https://github.com/AlvaroSanJuan20/AlvaroSanJuan20/blob/main/gitHubImages/githubimage.png)
 ---
