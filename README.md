@@ -11,12 +11,6 @@ This is my webpage of gitHub for my profile.
 
 * To contact me you can send me an email to **alvaro.san@educantabria.es**
 
-## My image
-
-* This is my image:
-
-![Myimage](https://github.com/AlvaroSanJuan20/AlvaroSanJuan20/blob/main/gitHubImages/githubimage.png)
----
 
 ## Hola a todos 🙌 (ES)
 
@@ -30,9 +24,3 @@ Esta es mi página web de gitHub para mi perfil.
 
 * Para contactarme puedes enviar un correo a **alvaro.san@educantabria.es**
 
-## Mi imagen
-
-* Esta es mi imagen:
-
-![Miimagen](https://github.com/AlvaroSanJuan20/AlvaroSanJuan20/blob/main/gitHubImages/githubimage.png)
----
