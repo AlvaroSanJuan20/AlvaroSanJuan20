@@ -16,7 +16,7 @@ This is my webpage of gitHub for my profile.
 
 ## Projects:
 
-Check out my [repositories](https://github.com/AlvaroSanJuan20?tab=repositories) where I uploaded projects I have made.
+Check out my [repositories](https://github.com/AlvaroSanJuan20?tab=repositories) where I uploaded projects I have made.  
 All of them were created as I learned, my skill level could be different from the one presented on the repositories.
 
 ## Contact:
@@ -41,7 +41,7 @@ Esta es mi página web de gitHub para mi perfil.
 
 ## Proyectos:
 
-Echa un vistazo a mis [repositorios](https://github.com/AlvaroSanJuan20?tab=repositories) donde he subido proyectos que he hecho.
+Echa un vistazo a mis [repositorios](https://github.com/AlvaroSanJuan20?tab=repositories) donde he subido proyectos que he hecho.  
 Todos son creados a medida que voy aprendiendo, mi nivel de habilidad puede ser diferente al que presenten los repositorios.
 
 ## Contacto:
