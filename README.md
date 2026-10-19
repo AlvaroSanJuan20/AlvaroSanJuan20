@@ -4,6 +4,7 @@
 This is my webpage of gitHub for my profile.
 
 * I am a superior technician of Administration of digital systems & net.
+* Specialized in AI and Big Data.
 * I am working on my own gitHub
 * I am currently doing as best as I can.
 
